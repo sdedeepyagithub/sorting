@@ -1,3 +1,3 @@
 # Sorting_Visualizer
-This algorithm is a web application tools 
+This algorithm is a web application tools.<br>
 By S Dedeepya
